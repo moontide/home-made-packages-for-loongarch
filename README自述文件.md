@@ -9,6 +9,11 @@ Fetch code from kernel.org, plus some modifications | 从 kernel.org 获取官�
 * Add some WiFi wireless drivers, like carl9170 (TP-Link TL-WN821N) | 加了一些 WiFi 无线驱动，比如：carl9170 (TP-Link TL-WN821N)
 * Add some sound card dirvers, like Creative X-Fi | 加了一些声卡驱动，比如：创新的 X-Fi
 
+### Project URL | 项目网址 ###
+
+* https://kernel.org
+* https://github.com/torvalds/linux
+
 
 ## Geany-JSON-Prettifier | Geany 文本编辑器的 JSON 代码格式化插件 ##
 
@@ -21,11 +26,11 @@ Fetch code from kernel.org, plus some modifications | 从 kernel.org 获取官�
 
 ### Project URL | 项目网址 ###
 
-* https://github.com/netbirdio/netbird
 * https://netbird.io
+* https://github.com/netbirdio/netbird
 
 
-## CNMPlayer - unofficial music player on terminal for NetEase Cloud Music | CNMPlayer - 运行中终端下的非官方网易云音乐播放器 ##
+## CNMPlayer - unofficial music player on terminal for NetEase Cloud Music | CNMPlayer - 运行在终端下的非官方网易云音乐播放器 ##
 
 ### Project URL | 项目网址 ###
 
